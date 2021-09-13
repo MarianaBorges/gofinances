@@ -3,7 +3,7 @@ export default {
         primary: '#5636D3',
 
         secondary: '#FF872C',
-        secundary_light: 'rgba(255, 125, 44, 0.3)',
+        secondary_light: 'rgba(255, 125, 44, 0.3)',
 
         success: '#12A454',
         success_light: 'rgba(18, 164, 84, 0.5)',
@@ -13,7 +13,14 @@ export default {
 
         shape: '#FFFFFF',
         title: '#363F5F',
+        text_dark: '#000000',
         text: '#969CB3',
         background: '#F0F2F5',
+    },
+
+    fonts:{
+        regular:'Poppins_400Regular',
+        medium: 'Poppins_500Medium',
+        bold: 'Poppins_700Bold',
     }
 }
